@@ -5,12 +5,10 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-store
 
-# Vite/Build
-.dist
-build
-dist
-.cache
-.vite
+# Next.js
+.next
+out
+.next-static
 
 # Env
 .env
